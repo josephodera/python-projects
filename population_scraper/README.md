@@ -9,7 +9,7 @@ This project scrapes the **latest population data** of countries and regions fro
 - Cleans the table (removes messy values, fixes columns, formats percentages).  
 - Saves the results into:
   - `countries_by_population_clean.csv`  
-  - `countries_by_population_clean.xlsx` (with bold column headers 🎉).  
+  - `countries_by_population_clean.xlsx` (with bold column headers ).  
 
 ---
 
@@ -28,5 +28,6 @@ This project scrapes the **latest population data** of countries and regions fro
    ```bash
    git clone https://github.com/josephodera/countries-population-scraper.git
    cd countries-population-scraper
+
 
 
