@@ -26,6 +26,7 @@ This project scrapes the **latest population data** of countries and regions fro
 
 1. **Clone this repo** or download the code.  
    ```bash
-   git clone https://github.com/your-username/countries-population-scraper.git
+   git clone https://github.com/josephodera/countries-population-scraper.git
    cd countries-population-scraper
+
 
